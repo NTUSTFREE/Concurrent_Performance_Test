@@ -1,6 +1,6 @@
 # Concurrent_Performance_Test
-    - This repo will test the performance between blocking and non -blocking syncronization.
-    - All program was written in cpp.
+**This repo will test the performance between blocking and non -blocking syncronization.**  
+**All program was written in cpp**
 
 # Environment
     CPU: x86_64 with 4 cores
@@ -14,7 +14,7 @@
 ![mutex](img/mutex.png)
 
 # Conclusion
-    As you see atomic is more efficient than using mutex to update shared resource.
+**As you see atomic is more efficient than using mutex to update shared resource.**
  
 
     
