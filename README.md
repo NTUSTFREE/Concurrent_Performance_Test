@@ -8,4 +8,10 @@
     RAM: 32GB
     Storage: 50GB
     
+# Result in atomic
+
+# Result in mutex
+ 
+
+    
     
