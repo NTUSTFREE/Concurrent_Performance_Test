@@ -9,8 +9,12 @@
     Storage: 50GB
     
 # Result in atomic
-
+![atomic](img/atomic.png)
 # Result in mutex
+![mutex](img/mutex.png)
+
+# Conclusion
+    As you see atomic is more efficient than using mutex to update shared resource.
  
 
     
